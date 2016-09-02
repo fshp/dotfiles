@@ -10,3 +10,5 @@
 	default = simple
 [merge]
 	tool = meld
+[core]
+	editor = nano

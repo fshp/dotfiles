@@ -1,0 +1,10 @@
+{
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
+}

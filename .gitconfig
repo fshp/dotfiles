@@ -1,0 +1,12 @@
+[user]
+	name = Maxim Moseychuk
+	email = franchesko.salias.hudro.pedros@gmail.com
+	signingkey = 601743F2
+[gpg]
+	program = gpg2
+[commit]
+	gpgsign = true
+[push]
+	default = simple
+[merge]
+	tool = meld

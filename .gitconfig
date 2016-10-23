@@ -12,3 +12,5 @@
 	tool = meld
 [core]
 	editor = nano
+[rerere]
+	enabled = true

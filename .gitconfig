@@ -3,12 +3,16 @@
 	email = franchesko.salias.hudro.pedros@gmail.com
 	signingkey = 601743F2
 [gpg]
-	program = gpg2
+	program = gpg
 [commit]
 	gpgsign = true
 [push]
 	default = simple
 [merge]
-	tool = meld
+	tool = kdiff3
 [core]
 	editor = nano
+[diff "gpg"]
+	textconv = gpg -dv -o -
+[diff]
+	tool = meld

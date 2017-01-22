@@ -7,6 +7,7 @@ antigen bundle git-flow
 antigen bundle docker
 antigen bundle command-not-found
 antigen bundle pass
+antigen bundle cp
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle Schnouki/git-annex-zsh-completion
 

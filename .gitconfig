@@ -12,8 +12,6 @@
 	tool = kdiff3
 [core]
 	editor = nano
-[rerere]
-	enabled = true
 [diff "gpg"]
 	textconv = gpg -dv -o -
 [diff]
